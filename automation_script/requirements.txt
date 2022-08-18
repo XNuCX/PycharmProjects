@@ -1,0 +1,8 @@
+comtypes==1.1.9
+pyperclip==1.8.1
+pywin32 @ file:///C:/Users/NuC/Downloads/pywin32-228-cp39-cp39-win_amd64.whl
+pywinauto==0.6.8
+six==1.15.0
+winshell==0.6
+psutil==5.8.0
+py3nvml==0.2.6
